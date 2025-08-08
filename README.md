@@ -1,6 +1,6 @@
 # Altın Mobil Uygulaması
 
-Modern ve kullanıcı dostu bir altın fiyat takip uygulaması. RapidAPI entegrasyonu ile gerçek zamanlı altın fiyatlarını gösterir.
+Modern ve kullanıcı dostu bir altın fiyat takip uygulaması.API entegrasyonu ile gerçek zamanlı altın fiyatlarını gösterir.
 
 ## Özellikler
 
