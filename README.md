@@ -1,4 +1,4 @@
-# Harem Altın Mobil Uygulaması
+# Altın Mobil Uygulaması
 
 Modern ve kullanıcı dostu bir altın fiyat takip uygulaması. RapidAPI entegrasyonu ile gerçek zamanlı altın fiyatlarını gösterir.
 
@@ -39,7 +39,7 @@ flutter run
 
 ## API Konfigürasyonu
 
-RapidAPI'den aldığınız API anahtarını `lib/services/gold_api_service.dart` dosyasında güncelleyin:
+API anahtarını `lib/services/gold_api_service.dart` dosyasında güncelleyin:
 
 ```dart
 static const String _apiKey = 'YOUR_API_KEY_HERE';
