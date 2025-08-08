@@ -98,5 +98,5 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## İletişim
 
-Geliştirici: [Adınız]
-Email: [email@example.com]
+Geliştirici: [Muhammet Cömert]
+Email: [comert2332@gmail.com]
